@@ -1,5 +1,5 @@
 baseurl: "/metacenter-git"
-title: "Collaborative distributed version control"
+title: "Collaborative distributed version control for Metacenter"
 
 source: .
 destination: ./_site
